@@ -23,7 +23,7 @@ Tabela de conteúdos
 
 - [x] Coleta de vidas.
 - [x] Morte dos inimigos.
-- [x] Tela de GameOver
+- [x] Tela de GameOver.
 - [ ] Fase seguinte.
 
 
