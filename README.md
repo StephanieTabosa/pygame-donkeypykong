@@ -10,7 +10,7 @@ Tem como objetivo, avaliar autodesenvolvimento e conhecimentos já adquiridos no
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre]: Desenvolvido por Adrielly Costa, Juliana Félix e Stephanie Tabosa
+   * [Sobre]: Desenvolvido por Adrielly Costa, Juliana Félix e Stèphanie Tabosa
    * [Instalação]: pip install pygame
    * [Tecnologias]: Python e Pygame
 <!--te-->
